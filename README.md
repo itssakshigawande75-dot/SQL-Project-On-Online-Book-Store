@@ -36,5 +36,4 @@ Below is the data output generated from the SQL queries in pgAdmin, showcasing t
 
 ## 📊 Query Output Preview
 This is the updated data analysis result from pgAdmin:
-
-![SQL Data Output](image_991ccc.png)
+![SQL Data Output](Screenshot 2026-03-06 225337.png)
