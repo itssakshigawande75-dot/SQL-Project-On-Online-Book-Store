@@ -29,11 +29,9 @@ The goal is to extract business insights like sales trends, inventory status, an
 2. Setup Database : Create a new database in your tool and run the `Online_Bookstore.sql` file to set up the tables.
 3. Import Data : Use the provided `.csv` files (Books, Customers, Orders) to import data into the respective tables.
 4. Run Analysis : Open and execute the SQL queries provided in the scripts to generate business insights and sales reports.
+# 📚 Online Bookstore Analysis (SQL)
 
-📊 Project Analysis Preview :
-
-Below is the data output generated from the SQL queries in pgAdmin, showcasing the analyzed bookstore records:
-
-This is the updated data analysis result from pgAdmin:
+## 📊 Project Preview
+Below is the data output generated from the SQL queries in pgAdmin:
 
 ![SQL Data Output](Screenshot 2026-03-06 225337.png)
