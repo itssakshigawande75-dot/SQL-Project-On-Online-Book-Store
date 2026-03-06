@@ -34,6 +34,6 @@ The goal is to extract business insights like sales trends, inventory status, an
 
 Below is the data output generated from the SQL queries in pgAdmin, showcasing the analyzed bookstore records:
 
-## 📊 Query Output Preview
 This is the updated data analysis result from pgAdmin:
+
 ![SQL Data Output](Screenshot 2026-03-06 225337.png)
