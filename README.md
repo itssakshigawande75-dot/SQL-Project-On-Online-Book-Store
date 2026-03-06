@@ -31,5 +31,5 @@ The goal is to extract business insights like sales trends, inventory status, an
 4. Run Analysis : Open and execute the SQL queries provided in the scripts to generate business insights and sales reports.
 
 📊 Project Analysis Preview
-![SQL Data Output](Screenshot 2026-03-06 222215.png)
 Below is the data output generated from the SQL queries in pgAdmin, showcasing the analyzed bookstore records:
+![SQL Data Output](Screenshot%202026-03-06%20222215.png)
